@@ -9,6 +9,7 @@ Find the script here: [crisp.sh](crisp.sh).
 
 ## Apps
 
+* VSCode
 * Google Chrome
 * iTerm2
 
