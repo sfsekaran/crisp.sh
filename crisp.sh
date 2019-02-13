@@ -4,7 +4,9 @@
 # TODO: check if exists before installing
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew cask install google-chrome iterm2 visual-studio-code &&
+brew cask install google-chrome
+brew cask install iterm2
+brew cask install visual-studio-code
 brew install autojump git-flow tig
 
 # install oh_my_zsh
