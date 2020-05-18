@@ -7,6 +7,7 @@
 brew cask install google-chrome
 brew cask install iterm2
 brew cask install visual-studio-code
+brew cask install shiftit
 brew install autojump git-flow tig
 
 # install oh_my_zsh

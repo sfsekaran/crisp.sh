@@ -12,6 +12,7 @@ Find the script here: [crisp.sh](crisp.sh).
 * VSCode
 * Google Chrome
 * iTerm2
+* ShiftIt (window management)
 
 ## Terminal Stuff
 
