@@ -8,8 +8,14 @@ First, install XCode if you haven't yet
 xcode-select --install
 ```
 
+Then clone the repository
+```sh
+git clone git@github.com:sfsekaran/crisp.sh.git
+```
+
 Then simply run
 ```sh
+cd crisp.sh
 sh crisp.sh
 ```
 
