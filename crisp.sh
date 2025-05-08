@@ -12,7 +12,7 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/sathya/.zshrc
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
 brew install --cask google-chrome iterm2 visual-studio-code
-brew install autojump git-flow tig gnu-sed
+brew install autojump git-flow tig gnu-sed htop
 
 gsed -i'' -e 's/plugins=(/plugins=(autojump ruby rails /g' ~/.zshrc
 
