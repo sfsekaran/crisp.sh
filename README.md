@@ -28,7 +28,3 @@ Find the script here: [crisp.sh](crisp.sh).
 * autojump (save keystrokes)
 * oh_my_zsh (pretty terminals)
 * tig (pretty terminal git log view)
-
-## Acknowledgements
-
-Thanks to Shaun Lau (https://twitter.com/nototally) for the idea to install cask versions of Mac apps instead of doing so manually, so you can update apps with one homebrew command.
