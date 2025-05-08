@@ -3,7 +3,15 @@ A brisk setup for developers using Macs. Fork me!
 
 ## How to use
 
-Simply run `sh crisp.sh`.
+First, install XCode if you haven't yet
+```sh
+xcode-select --install
+```
+
+Then simply run
+```sh
+sh crisp.sh
+```
 
 Find the script here: [crisp.sh](crisp.sh).
 
